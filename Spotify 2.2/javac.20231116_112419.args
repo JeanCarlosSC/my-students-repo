@@ -1,0 +1,18 @@
+-d
+"C:\\Users\\juand\\OneDrive\\Escritorio\\Parra\\Univesidad\\2023-3\\Grupo de trabajo Java\\Spotify 2.2\\build\\classes"
+-classpath
+"C:\\Users\\juand\\OneDrive\\Escritorio\\Parra\\Univesidad\\2023-3\\Grupo de trabajo Java\\Spotify 2.2\\build\\classes;C:\\Users\\juand\\OneDrive\\Escritorio\\Parra\\Univesidad\\2023-3\\Grupo de trabajo Java\\Spotify 2.2\\Librerias\\flatlaf-3.2.1.jar"
+-sourcepath
+"C:\\Users\\juand\\OneDrive\\Escritorio\\Parra\\Univesidad\\2023-3\\Grupo de trabajo Java\\Spotify 2.2\\build\\empty"
+-target
+20
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\juand\\OneDrive\\Escritorio\\Parra\\Univesidad\\2023-3\\Grupo de trabajo Java\\Spotify 2.2\\Librerias\\flatlaf-3.2.1.jar;C:\\Users\\juand\\OneDrive\\Escritorio\\Parra\\Univesidad\\2023-3\\Grupo de trabajo Java\\Spotify 2.2\\build\\empty"
+-s
+"C:\\Users\\juand\\OneDrive\\Escritorio\\Parra\\Univesidad\\2023-3\\Grupo de trabajo Java\\Spotify 2.2\\build\\generated-sources\\ap-source-output"
+-source
+20
+"C:\\Users\\juand\\OneDrive\\Escritorio\\Parra\\Univesidad\\2023-3\\Grupo de trabajo Java\\Spotify 2.2\\src\\Vista\\principal\\componentes\\PanelPlaylist1.java"
